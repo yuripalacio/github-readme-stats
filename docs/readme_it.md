@@ -1,20 +1,20 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/yuripalacio/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Mostra nei tuoi README file le statistiche GitHub generate dinamicamente!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/yuripalacio/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/yuripalacio/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/yuripalacio/github-readme-stats">
+      <img src="https://codecov.io/gh/yuripalacio/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/yuripalacio/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/yuripalacio/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/yuripalacio/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/yuripalacio/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#demo">Anteprima</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Segnala un errore</a>
+    <a href="https://github.com/yuripalacio/github-readme-stats/issues/new/choose">Segnala un errore</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Richiedi una nuova funzionalità</a>
+    <a href="https://github.com/yuripalacio/github-readme-stats/issues/new/choose">Richiedi una nuova funzionalità</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -51,7 +51,7 @@
     <a href="/docs/readme_kr.md">한국어</a>
   </p>
 </p>
-<p align="center">Se ti piace questo progetto, considera la possibilità di <a href="https://www.paypal.me/anuraghazra">donare</a> per aiutare a renderlo migliore!
+<p align="center">Se ti piace questo progetto, considera la possibilità di <a href="https://www.paypal.me/yuripalacio">donare</a> per aiutare a renderlo migliore!
 
 # Caratteristiche
 
@@ -69,7 +69,7 @@ Per creare una Card con le statistiche GitHub, copia e incolla nel tuo file mark
 Ricorda di cambiare il valore `?username=` con il tuo nome utente GitHub.
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 _Nota: I punteggi sono calcolati sulla base delle tue statistiche, dai un'occhiata a [src/calculateRank.js](./src/calculateRank.js) per ulteriori informazioni_
@@ -81,7 +81,7 @@ Per nascondere qualche dato, puoi aggiungere i parametri `?hide=`, separando i v
 > Opzioni: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&hide=contribs,prs)
 ```
 
 ### Includere i contributi privati nel computo totale
@@ -93,7 +93,7 @@ _Nota: se hai deciso di fare il deploy del progetto, i contributi privati verran
 > Opzioni: `&count_private=true`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&count_private=true)
 ```
 
 ### Mostrare le icone
@@ -101,7 +101,7 @@ _Nota: se hai deciso di fare il deploy del progetto, i contributi privati verran
 Per abilitare le icone, puoi specificare `show_icons=true`, ad esempio:
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&show_icons=true)
 ```
 
 ### Temi
@@ -111,14 +111,14 @@ Esistono alcuni temi predefiniti coi quali è possibile personalizzare l'aspetto
 Usa il parametro `?theme=NOME_TEMA` in questo modo:-
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&show_icons=true&theme=radical)
 ```
 
 #### Galleria dei temi:-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/yuripalacio/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 Puoi avere un'anteprima di [tutti i temi supportati](./themes/README.md) o controllare il [file di configurazione dei temi](./themes/index.js) e **puoi anche contribuire creando un nuovo tema** se vuoi :D
 
@@ -180,19 +180,19 @@ GitHub Extra Pins ti permette di fissare in alto più di 6 repository nel tuo pr
 
 Copia e incolla il seguente codice, premurandoti di cambiare il link.
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=yuripalacio&repo=github-readme-stats`
 
 ```md
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 ### Demo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats)](https://github.com/yuripalacio/github-readme-stats)
 
 Usa la variabile [show_owner](#personalizzazione) per includere il nome utente del proprietario
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats&show_owner=true)](https://github.com/yuripalacio/github-readme-stats)
 
 # Top Languages Card
 
@@ -204,10 +204,10 @@ _NOTA: questa card non indica il livello di abilità, ma piuttosto quanto codice
 
 Copia e incolla nel tuo file README, cambiando i link.
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=yuripalacio`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 ### Nascondi linguaggi specifici
@@ -215,7 +215,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 Puoi utilizzare il parametro `?hide=linguaggio1,linguaggio2` per nascondere alcuni linguaggi.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio&hide=javascript,html)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 ### Layout compatto
@@ -223,16 +223,16 @@ Puoi utilizzare il parametro `?hide=linguaggio1,linguaggio2` per nascondere alcu
 Puoi utilizzare l'opzione `&layout=compact` per cambiare l'aspetto della card.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio&layout=compact)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio)](https://github.com/yuripalacio/github-readme-stats)
 
 - Layout Compatto
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio&layout=compact)](https://github.com/yuripalacio/github-readme-stats)
 
 ---
 
@@ -240,41 +240,41 @@ Puoi utilizzare l'opzione `&layout=compact` per cambiare l'aspetto della card.
 
 - Default
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio)
 
 - Nascondere dati specifici
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&hide=contribs,issues)
 
 - Mostrare le icone
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&hide=issues&show_icons=true)
 
 - Includere tutti i commit
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&include_all_commits=true)
 
 - Temi
 
 Scegli uno dei [temi di default](#themes)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&show_icons=true&theme=radical)
 
 - Gradiente
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personalizzare le Stats Card
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=yuripalacio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Personalizzare le Repo Card
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuripalacio&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Linguaggi più usati
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio)](https://github.com/yuripalacio/github-readme-stats)
 
 ---
 
@@ -283,11 +283,11 @@ Scegli uno dei [temi di default](#themes)
 Per allineare le card una accanto all'altra, puoi adottare questo approccio:
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/yuripalacio/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/yuripalacio/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=convoychat" />
 </a>
 ```
 
@@ -297,9 +297,9 @@ Per allineare le card una accanto all'altra, puoi adottare questo approccio:
 
 Since the GitHub API only allows 5k requests per hour, it is possible that my `https://github-readme-stats.vercel.app/api` could hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
 
-NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
+NOTE: Since [#58](https://github.com/yuripalacio/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yuripalacio/github-readme-stats)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
@@ -331,13 +331,13 @@ Tuttavia, se usi il progetto e ti piace e vuoi sostenermi, puoi:-
 
 - Dare il giusto riconoscimento quando usi github-readme-stats nei tuoi readme, includendo un link :D
 - Mettere una stella e condividere il progetto :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Fare una donazione via PayPal. Probabilmente compreròun ~~caffè~~ tè. :tea:
+- [![paypal.me/yuripalacio](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/yuripalacio) - Fare una donazione via PayPal. Probabilmente compreròun ~~caffè~~ tè. :tea:
 
 Grazie! :heart:
 
 ---
 
-![https://vercel.com](https://res.cloudinary.com/anuraghazra/image/upload/v1597827714/powered-by-vercel_1_ug4uro.svg)
+![https://vercel.com](https://res.cloudinary.com/yuripalacio/image/upload/v1597827714/powered-by-vercel_1_ug4uro.svg)
 
 I contributi sono benvenuti! <3
 

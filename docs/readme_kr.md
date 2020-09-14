@@ -1,20 +1,20 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/yuripalacio/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">동적으로 생성된 Github의 통계를 여러분의 README에 올려보세요!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/yuripalacio/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/yuripalacio/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/yuripalacio/github-readme-stats">
+      <img src="https://codecov.io/gh/yuripalacio/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/yuripalacio/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/yuripalacio/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/yuripalacio/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/yuripalacio/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#데모">View Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/yuripalacio/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/yuripalacio/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
@@ -51,7 +51,7 @@
     <a href="/docs/readme_kr.md">한국어</a>
   </p>
 </p>
-<p align="center">이 프로젝트가 마음에 드나요? 괜찮으시다면 더 나은 개선을 위해 <a href="https://www.paypal.me/anuraghazra">기부</a>를 고려해주세요!
+<p align="center">이 프로젝트가 마음에 드나요? 괜찮으시다면 더 나은 개선을 위해 <a href="https://www.paypal.me/yuripalacio">기부</a>를 고려해주세요!
 
 # Features
 
@@ -69,7 +69,7 @@
 `?username=` 영역의 값은 당신의 Github 계정의 이름으로 바꿔주세요.
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 _참고: 순위는 사용자의 통계를 기반으로 계산됩니다. [src/calculateRank.js](../src/calculateRank.js) 참고_
@@ -81,7 +81,7 @@ _참고: 순위는 사용자의 통계를 기반으로 계산됩니다. [src/cal
 > 예시: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&hide=contribs,prs)
 ```
 
 ### 총 커밋 수에 private 컨트리뷰트 개수 추가하기
@@ -93,7 +93,7 @@ _참고: 이 프로젝트를 직접 배포하는 경우 private 컨트리뷰트�
 > 예시: `&count_private=true`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&count_private=true)
 ```
 
 ### 아이콘 표기
@@ -101,7 +101,7 @@ _참고: 이 프로젝트를 직접 배포하는 경우 private 컨트리뷰트�
 아이콘을 활성화하려면 다음과 같이 `show_icons=true` 쿼리 파라미터를 사용하세요.
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&show_icons=true)
 ```
 
 ### 테마
@@ -111,14 +111,14 @@ _참고: 이 프로젝트를 직접 배포하는 경우 private 컨트리뷰트�
 아래와 같이 `?theme=THEME_NAME` 파라미터를 사용하세요. :-
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&show_icons=true&theme=radical)
 ```
 
 #### 모든 내장된 테마 :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/yuripalacio/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 [사용 가능한 모든 테마](../themes/README.md)의 미리보기와 [테마 설정 파일](../themes/index.js)을 확인할 수 있습니다. 괜찮으시다면 **새로운 테마를 만드셔서, 코드를 기여** 해주세요 :D
 
@@ -173,19 +173,19 @@ GitHub extra pins을 사용하면 Github readme 프로필에 6개 이상의 저�
 
 이 코드를 복사해서 readme에 넣고 링크를 변경해주세요.
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=yuripalacio&repo=github-readme-stats`
 
 ```md
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 ### 데모
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats)](https://github.com/yuripalacio/github-readme-stats)
 
 [show_owner](#사용자정의) 값을 사용하여 저장소 소유자 이름을 포함할 수 있습니다.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats&show_owner=true)](https://github.com/yuripalacio/github-readme-stats)
 
 # 상위 언어 카드
 
@@ -197,10 +197,10 @@ _참고: Top languages는 사용자의 기술 수준을 나타내는 것이 아�
 
 이 코드를 복사해서 readme에 넣고 링크를 변경해주세요.
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=yuripalacio`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 ### 개별 언어 숨기기
@@ -208,7 +208,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 `?hide=language1,language2` 파라미터를 사용하여 특정 언어를 숨길 수 있습니다.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio&hide=javascript,html)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 ### 컴팩트 언어 카드 레이아웃
@@ -216,16 +216,16 @@ Endpoint: `api/top-langs?username=anuraghazra`
 `&layout=compact` 파라미터를 사용하여 카드의 디자인을 변경할 수 있습니다.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio&layout=compact)](https://github.com/yuripalacio/github-readme-stats)
 ```
 
 ### 데모
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio)](https://github.com/yuripalacio/github-readme-stats)
 
 - 컴팩트 레이아웃
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio&layout=compact)](https://github.com/yuripalacio/github-readme-stats)
 
 ---
 
@@ -233,37 +233,37 @@ Endpoint: `api/top-langs?username=anuraghazra`
 
 - 기본 설정
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio)
 
 - 특정 통계 숨김
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&hide=contribs,issues)
 
 - 아이콘 표기
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&hide=issues&show_icons=true)
 
 - 모든 커밋 표기
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&include_all_commits=true)
 
 - 테마
 
 [default themes](#테마)에서 선택
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuripalacio&show_icons=true&theme=radical)
 
 - Stats 카드 사용자 정의
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=yuripalacio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Repo 카드 사용자 정의
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuripalacio&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 상위 언어
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuripalacio)](https://github.com/yuripalacio/github-readme-stats)
 
 ---
 
@@ -272,11 +272,11 @@ Endpoint: `api/top-langs?username=anuraghazra`
 일반적으로 사진을 나란히 배치할 수 없습니다. 따라서 다음과 같은 방법을 사용할 수 있습니다.
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/yuripalacio/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/yuripalacio/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=convoychat" />
 </a>
 ```
 
@@ -287,9 +287,9 @@ Endpoint: `api/top-langs?username=anuraghazra`
 Github API는 시간당 5k 요청만을 허용하기 때문에, 이 `https://github-readme-stats.vercel.app/api`이 제한에 도달할 수 있습니다.
 물론 자신의 Vercel 서버에서 호스팅하는 것이라면 아무것도 걱정할 필요가 없습니다. 시작하려면 배포 버튼을 클릭하세요!
 
-참고: [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) 이슈 이후로는 5k 이상의 요청을 처리할 수 있게 되어, 다운 타임의 문제가 발생하지 않습니다 :D
+참고: [#58](https://github.com/yuripalacio/github-readme-stats/pull/58) 이슈 이후로는 5k 이상의 요청을 처리할 수 있게 되어, 다운 타임의 문제가 발생하지 않습니다 :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yuripalacio/github-readme-stats)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
@@ -321,7 +321,7 @@ Github API는 시간당 5k 요청만을 허용하기 때문에, 이 `https://git
 
 - readme에서 github-readme-stats를 사용하고 다시 링크해주세요 :D
 - star를 눌러주거나 이 프로젝트를 공유해주세요. :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal을 통해서 일회성 기부를 할 수 있습니다. 저는 아마 ~~커피~~ 차를 살겁니다.
+- [![paypal.me/yuripalacio](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/yuripalacio) - PayPal을 통해서 일회성 기부를 할 수 있습니다. 저는 아마 ~~커피~~ 차를 살겁니다.
 
 고맙습니다! :heart:
 
